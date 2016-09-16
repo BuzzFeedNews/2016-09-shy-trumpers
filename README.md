@@ -10,6 +10,6 @@ The [data](http://elections.huffingtonpost.com/pollster/2016-general-election-tr
 
 The code to run the analysis and reproduce the graphics is online [here](https://buzzfeednews.github.io/2016-09-shy-trumpers/shy-trumpers.html), and in the R Markdown document `shy-trumpers.Rmd`.
 
-## Questions / Feedeback
+## Questions / Feedback
 
 Email the author Peter Aldhous at <peter.aldhous@buzzfeed.com>
