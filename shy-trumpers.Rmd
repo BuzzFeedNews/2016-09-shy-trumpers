@@ -73,8 +73,7 @@ trump <- ggplot(polls_edit, aes(x=EndDate, y=Trump, group=Mode)) +
   theme(text=element_text(size=20),
         axis.title = element_text(size=16),
         legend.position = "top",
-        legend.title = element_blank()) +
-  geom_hline(yintercept=0, linetype="dotdash")
+        legend.title = element_blank())
 
 plot(trump)
 ```
